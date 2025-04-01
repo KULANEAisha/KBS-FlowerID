@@ -1,6 +1,8 @@
 # KBS-FlowerID
 KBS-FlowerID is a Flask-based Flower Identification System that helps users recognize flowers based on attributes like color and petal count. This project applies a rule-based expert system to classify flowers efficiently.
 
+
+
 Features
 
 Identify flowers based on user input (color, petal count).
@@ -12,6 +14,8 @@ Rule-based classification for quick identification.
 Lightweight and easy to set up with Flask.
 
 
+
+
 Tech Stack
 
 Backend: Python (Flask)
@@ -19,6 +23,8 @@ Backend: Python (Flask)
 Frontend: HTML, CSS 
 
 Logic: Rule-based Expert System
+
+
 
 Rules 
 
@@ -34,6 +40,8 @@ If a flower has white color and six petals, then it might be a Lily.
 
 
 If a flower has white color and many petals, then it might be a Daisy.
+
+
 
 
 Installation & Setup
